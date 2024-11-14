@@ -6,7 +6,6 @@
 #define MWINDOWEVENT_H
 #include <cstdint>
 
-#include "../../../../MyWindowApi/include/mwindow/mwindow.h"
 enum event_code : std::int32_t
 {
 
