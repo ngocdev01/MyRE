@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 cmake-build-debug/
-=======
->>>>>>> 451d54413737636d9f6e0774b58111ddbc8b8797
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
@@ -14,9 +11,6 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 CMakeUserPresets.json
-<<<<<<< HEAD
 build
 .cache
 CMakePresets.json
-=======
->>>>>>> 451d54413737636d9f6e0774b58111ddbc8b8797
